@@ -4,7 +4,7 @@
   "description": "With the commercial marketplace metering service, you can create software as a service (SaaS) and managed application offers which charge according to non-standard units. Before publishing an offer to the commercial marketplace, you define the billing dimensions such as bandwidth, tickets, or emails processed. Customers then pay according to their consumption of these dimensions, with your system informing Microsoft via the commercial marketplace metering service API of billable events.",
   "version": "1.0.2",
   "dependencies": {
-    "@azure/core-http": "^1.1.4",
+    "@azure/core-http": "^3.0.5",
     "tslib": "^1.9.3"
   },
   "keywords": [
@@ -20,7 +20,7 @@
   "types": "./esm/index.d.ts",
   "devDependencies": {
     "typescript": "^3.1.1",
-    "rollup": "^0.66.2",
+    "rollup": "^2.79.2",
     "rollup-plugin-node-resolve": "^3.4.0",
     "rollup-plugin-sourcemaps": "^0.4.2",
     "uglify-js": "^3.4.9",
