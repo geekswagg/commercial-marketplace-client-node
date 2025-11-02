@@ -4,7 +4,7 @@
   "description": "This spec details the APIs that enable partners to sell their SaaS applications in the AppSource marketplace and the Azure Marketplace. These APIs are a requirement for transactable SaaS offers on the AppSource and Azure Marketplace.",
   "version": "1.0.2",
   "dependencies": {
-    "@azure/core-paging": "^1.1.1",
+    "@azure/core-paging": "^1.6.2",
     "@types/chai": "^4.2.15",
     "tslib": "^1.9.3"
   },
